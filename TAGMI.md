@@ -1,7 +1,7 @@
-# report-template
+# TAGMI Security Assessment
 # Introduction
 
-A time-boxed security review of the **protocol name** protocol was done by **rome**, with a focus on the security aspects of the application's implementation.
+A time-boxed security review of the **TAGMI** protocol was done by **rome**, with a focus on the security aspects of the application's implementation.
 
 # Disclaimer
 
