@@ -1,0 +1,175 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="398pt" height="515pt" viewBox="0.00 0.00 397.86 515.00">
+<g id="graph0" class="graph" transform="translate(4,511) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-511 393.86,-511 393.86,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="8,-370 8,-499 322.91,-499 322.91,-370 8,-370" style=""/>
+<text text-anchor="middle" x="165.45" y="-482.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- TagEscrow -->
+<g id="node1" class="node" pointer-events="visible" data-name="TagEscrow">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="81" cy="-90" rx="55.02" ry="18" style=""/>
+<text text-anchor="middle" x="81" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TagEscrow</text>
+</g>
+<!-- TagEscrow&#45;&gt;TagEscrow -->
+<g id="edge2" class="edge" data-name="TagEscrow-&gt;TagEscrow">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M45.99,-105.17C35.39,-115.66 47.05,-126 81,-126 100.09,-126 112.14,-122.73 117.14,-118" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="120.64,-117.84 116.27,-108.18 113.66,-118.45 120.64,-117.84" style=""/>
+</g>
+<!-- ITagNFT -->
+<g id="node4" class="node" pointer-events="visible" data-name="ITagNFT">
+
+<ellipse fill="none" stroke="#e8726d" stroke-width="3" stroke-dasharray="5,2" cx="287.91" cy="-126" rx="47.52" ry="18" style=""/>
+<text text-anchor="middle" x="287.91" y="-121.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITagNFT</text>
+</g>
+<!-- TagEscrow&#45;&gt;ITagNFT -->
+<g id="edge1" class="edge" data-name="TagEscrow-&gt;ITagNFT">
+
+<path fill="none" stroke="white" stroke-width="2" d="M131.34,-98.67C161.18,-103.91 199.34,-110.61 230.39,-116.07" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="229.78,-119.52 240.23,-117.8 230.99,-112.62 229.78,-119.52" style=""/>
+</g>
+<!-- IERC20 -->
+<g id="node5" class="node" pointer-events="visible" data-name="IERC20">
+
+<ellipse fill="none" stroke="#e8726d" stroke-width="3" stroke-dasharray="5,2" cx="287.91" cy="-18" rx="42.88" ry="18" style=""/>
+<text text-anchor="middle" x="287.91" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20</text>
+</g>
+<!-- TagEscrow&#45;&gt;IERC20 -->
+<g id="edge3" class="edge" data-name="TagEscrow-&gt;IERC20">
+
+<path fill="none" stroke="white" stroke-width="2" d="M119.27,-75.85C129.31,-71.87 140.11,-67.41 149.95,-63 166.28,-55.69 169.23,-51.34 185.95,-45 201.75,-39.01 219.41,-33.81 235.49,-29.61" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="236.2,-33.04 245.04,-27.2 234.49,-26.25 236.2,-33.04" style=""/>
+</g>
+<!-- EnumerableSet.UintSet -->
+<g id="node6" class="node" pointer-events="visible" data-name="EnumerableSet.UintSet">
+
+<ellipse fill="none" stroke="#e8726d" stroke-width="3" stroke-dasharray="5,2" cx="287.91" cy="-72" rx="101.9" ry="18" style=""/>
+<text text-anchor="middle" x="287.91" y="-67.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">EnumerableSet.UintSet</text>
+</g>
+<!-- TagEscrow&#45;&gt;EnumerableSet.UintSet -->
+<g id="edge4" class="edge" data-name="TagEscrow-&gt;EnumerableSet.UintSet">
+
+<path fill="none" stroke="white" stroke-width="2" d="M135.57,-85.29C149.7,-84.05 165.45,-82.67 181.3,-81.28" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="181.33,-84.79 190.98,-80.43 180.72,-77.81 181.33,-84.79" style=""/>
+</g>
+<!-- TagNFT -->
+<g id="node2" class="node" pointer-events="visible" data-name="TagNFT">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="81" cy="-261" rx="44.09" ry="18" style=""/>
+<text text-anchor="middle" x="81" y="-256.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TagNFT</text>
+</g>
+<!-- TagNFT&#45;&gt;TagNFT -->
+<g id="edge5" class="edge" data-name="TagNFT-&gt;TagNFT">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M48.12,-274.29C34.08,-285.4 45.03,-297 81,-297 104.04,-297 116.82,-292.24 119.33,-285.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="122.59,-284.59 115.16,-277.03 116.25,-287.57 122.59,-284.59" style=""/>
+</g>
+<!-- Counters.Counter -->
+<g id="node7" class="node" pointer-events="visible" data-name="Counters.Counter">
+
+<ellipse fill="none" stroke="#e8726d" stroke-width="3" stroke-dasharray="5,2" cx="287.91" cy="-342" rx="79.36" ry="18" style=""/>
+<text text-anchor="middle" x="287.91" y="-337.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Counters.Counter</text>
+</g>
+<!-- TagNFT&#45;&gt;Counters.Counter -->
+<g id="edge6" class="edge" data-name="TagNFT-&gt;Counters.Counter">
+
+<path fill="none" stroke="white" stroke-width="2" d="M108.18,-276.63C128.76,-288.42 158.46,-304.33 185.95,-315 195.63,-318.76 206.03,-322.18 216.34,-325.24" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="215.33,-328.59 225.91,-327.95 217.24,-321.86 215.33,-328.59" style=""/>
+</g>
+<!-- Ownable -->
+<g id="node8" class="node" pointer-events="visible" data-name="Ownable">
+
+<ellipse fill="none" stroke="#e8726d" stroke-width="3" stroke-dasharray="5,2" cx="287.91" cy="-288" rx="45.79" ry="18" style=""/>
+<text text-anchor="middle" x="287.91" y="-283.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Ownable</text>
+</g>
+<!-- TagNFT&#45;&gt;Ownable -->
+<g id="edge7" class="edge" data-name="TagNFT-&gt;Ownable">
+
+<path fill="none" stroke="white" stroke-width="2" d="M124.46,-266.59C155.09,-270.63 196.77,-276.12 230.24,-280.53" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="229.72,-283.99 240.09,-281.83 230.63,-277.05 229.72,-283.99" style=""/>
+</g>
+<!-- ERC721 -->
+<g id="node9" class="node" pointer-events="visible" data-name="ERC721">
+
+<ellipse fill="none" stroke="#e8726d" stroke-width="3" stroke-dasharray="5,2" cx="287.91" cy="-234" rx="44.11" ry="18" style=""/>
+<text text-anchor="middle" x="287.91" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC721</text>
+</g>
+<!-- TagNFT&#45;&gt;ERC721 -->
+<g id="edge8" class="edge" data-name="TagNFT-&gt;ERC721">
+
+<path fill="none" stroke="white" stroke-width="2" d="M124.46,-255.41C155.5,-251.31 197.9,-245.73 231.59,-241.29" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="232.05,-244.76 241.5,-239.98 231.13,-237.82 232.05,-244.76" style=""/>
+</g>
+<!-- ERC721Enumerable -->
+<g id="node10" class="node" pointer-events="visible" data-name="ERC721Enumerable">
+
+<ellipse fill="none" stroke="#e8726d" stroke-width="3" stroke-dasharray="5,2" cx="287.91" cy="-180" rx="90.91" ry="18" style=""/>
+<text text-anchor="middle" x="287.91" y="-175.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC721Enumerable</text>
+</g>
+<!-- TagNFT&#45;&gt;ERC721Enumerable -->
+<g id="edge9" class="edge" data-name="TagNFT-&gt;ERC721Enumerable">
+
+<path fill="none" stroke="white" stroke-width="2" d="M108.18,-245.37C128.76,-233.58 158.46,-217.67 185.95,-207 194.5,-203.68 203.61,-200.62 212.72,-197.85" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="213.57,-201.25 222.19,-195.09 211.61,-194.53 213.57,-201.25" style=""/>
+</g>
+<!-- TagEscrowOtc -->
+<g id="node3" class="node" pointer-events="visible" data-name="TagEscrowOtc">
+
+<ellipse fill="none" stroke="#445773" stroke-width="3" cx="81" cy="-18" rx="68.91" ry="18" style=""/>
+<text text-anchor="middle" x="81" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TagEscrowOtc</text>
+</g>
+<!-- TagEscrowOtc&#45;&gt;TagEscrowOtc -->
+<g id="edge10" class="edge" data-name="TagEscrowOtc-&gt;TagEscrowOtc">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M44.63,-34.66C36.55,-44.62 48.67,-54 81,-54 98.17,-54 109.65,-51.35 115.42,-47.38" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="118.85,-48.07 116.91,-37.66 111.93,-47.01 118.85,-48.07" style=""/>
+</g>
+<!-- TagEscrowOtc&#45;&gt;IERC20 -->
+<g id="edge11" class="edge" data-name="TagEscrowOtc-&gt;IERC20">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.37,-18C177.26,-18 206.29,-18 230.83,-18" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="230.56,-21.5 240.56,-18 230.56,-14.5 230.56,-21.5" style=""/>
+</g>
+<!-- TagEscrowOtc&#45;&gt;EnumerableSet.UintSet -->
+<g id="edge12" class="edge" data-name="TagEscrowOtc-&gt;EnumerableSet.UintSet">
+
+<path fill="none" stroke="white" stroke-width="2" d="M132.39,-31.28C157.26,-37.83 187.7,-45.86 214.97,-53.04" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="213.75,-56.34 224.31,-55.5 215.54,-49.57 213.75,-56.34" style=""/>
+</g>
+<!-- key -->
+<g id="node11" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="146,-466 16,-466 16,-378 146,-378 146,-466" style=""/>
+<text text-anchor="start" x="65.64" y="-447.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="61.75" y="-427.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="39.2" y="-407.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="25.6" y="-387.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node12" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="314.91,-466 260.91,-466 260.91,-378 314.91,-378 314.91,-466" style=""/>
+<text text-anchor="start" x="277.91" y="-447.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="277.91" y="-427.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="275.91,-402 275.91,-422 300.91,-422 300.91,-402 275.91,-402" style=""/>
+<text text-anchor="start" x="277.91" y="-407.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="277.91,-384 277.91,-400 298.91,-400 298.91,-384 277.91,-384" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge13" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M139,-452C194.92,-452 212.01,-452 262.17,-452" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="261.88,-455.5 271.88,-452 261.88,-448.5 261.88,-455.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge14" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M139,-432C194.92,-432 212.01,-432 262.17,-432" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="261.88,-435.5 271.88,-432 261.88,-428.5 261.88,-435.5" style=""/>
+</g>
+</g>
+</svg>

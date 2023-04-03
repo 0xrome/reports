@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="760pt" height="116pt" viewBox="0.00 0.00 760.10 116.00">
+<g id="graph0" class="graph" transform="translate(4,112) scale(1)" data-name="G">
+
+<polygon fill="white" stroke="none" points="-4,4 -4,-112 756.1,-112 756.1,4 -4,4" style=""/>
+<!-- TagEscrow -->
+<g id="node1" class="node" pointer-events="visible" data-name="TagEscrow">
+
+<ellipse fill="none" stroke="black" cx="221.14" cy="-90" rx="55.02" ry="18" style=""/>
+<text text-anchor="middle" x="221.14" y="-85.8" font-family="Times,serif" font-size="14.00" style="">TagEscrow</text>
+</g>
+<!-- ReentrancyGuard -->
+<g id="node2" class="node" pointer-events="visible" data-name="ReentrancyGuard">
+
+<ellipse fill="none" stroke="black" cx="79.14" cy="-18" rx="79.28" ry="18" style=""/>
+<text text-anchor="middle" x="79.14" y="-13.8" font-family="Times,serif" font-size="14.00" style="">ReentrancyGuard</text>
+</g>
+<!-- TagEscrow&#45;&gt;ReentrancyGuard -->
+<g id="edge1" class="edge" data-name="TagEscrow-&gt;ReentrancyGuard">
+
+<path fill="none" stroke="black" d="M191.72,-74.5C171.29,-64.43 143.77,-50.86 121.05,-39.66" style=""/>
+<polygon fill="black" stroke="black" points="122.87,-36.65 112.35,-35.37 119.77,-42.93 122.87,-36.65" style=""/>
+</g>
+<!-- Ownable -->
+<g id="node3" class="node" pointer-events="visible" data-name="Ownable">
+
+<ellipse fill="none" stroke="black" cx="222.14" cy="-18" rx="45.79" ry="18" style=""/>
+<text text-anchor="middle" x="222.14" y="-13.8" font-family="Times,serif" font-size="14.00" style="">Ownable</text>
+</g>
+<!-- TagEscrow&#45;&gt;Ownable -->
+<g id="edge2" class="edge" data-name="TagEscrow-&gt;Ownable">
+
+<path fill="none" stroke="black" d="M221.39,-71.7C221.49,-64.41 221.61,-55.73 221.73,-47.54" style=""/>
+<polygon fill="black" stroke="black" points="225.23,-47.67 221.87,-37.62 218.23,-47.57 225.23,-47.67" style=""/>
+</g>
+<!-- TagNFT -->
+<g id="node4" class="node" pointer-events="visible" data-name="TagNFT">
+
+<ellipse fill="none" stroke="black" cx="405.14" cy="-90" rx="44.09" ry="18" style=""/>
+<text text-anchor="middle" x="405.14" y="-85.8" font-family="Times,serif" font-size="14.00" style="">TagNFT</text>
+</g>
+<!-- TagNFT&#45;&gt;Ownable -->
+<g id="edge6" class="edge" data-name="TagNFT-&gt;Ownable">
+
+<path fill="none" stroke="black" d="M373.68,-76.97C343.53,-65.43 297.8,-47.94 264.46,-35.19" style=""/>
+<polygon fill="black" stroke="black" points="266.11,-32.07 255.52,-31.77 263.61,-38.61 266.11,-32.07" style=""/>
+</g>
+<!-- ERC721 -->
+<g id="node5" class="node" pointer-events="visible" data-name="ERC721">
+
+<ellipse fill="none" stroke="black" cx="330.14" cy="-18" rx="44.11" ry="18" style=""/>
+<text text-anchor="middle" x="330.14" y="-13.8" font-family="Times,serif" font-size="14.00" style="">ERC721</text>
+</g>
+<!-- TagNFT&#45;&gt;ERC721 -->
+<g id="edge3" class="edge" data-name="TagNFT-&gt;ERC721">
+
+<path fill="none" stroke="black" d="M388.12,-73.12C378.5,-64.14 366.29,-52.74 355.56,-42.73" style=""/>
+<polygon fill="black" stroke="black" points="358.16,-40.36 348.46,-36.1 353.38,-45.48 358.16,-40.36" style=""/>
+</g>
+<!-- ERC721Burnable -->
+<g id="node6" class="node" pointer-events="visible" data-name="ERC721Burnable">
+
+<ellipse fill="none" stroke="black" cx="472.14" cy="-18" rx="79.9" ry="18" style=""/>
+<text text-anchor="middle" x="472.14" y="-13.8" font-family="Times,serif" font-size="14.00" style="">ERC721Burnable</text>
+</g>
+<!-- TagNFT&#45;&gt;ERC721Burnable -->
+<g id="edge4" class="edge" data-name="TagNFT-&gt;ERC721Burnable">
+
+<path fill="none" stroke="black" d="M420.68,-72.76C428.93,-64.14 439.25,-53.36 448.47,-43.73" style=""/>
+<polygon fill="black" stroke="black" points="450.79,-46.37 455.17,-36.73 445.73,-41.53 450.79,-46.37" style=""/>
+</g>
+<!-- ERC721Enumerable -->
+<g id="node7" class="node" pointer-events="visible" data-name="ERC721Enumerable">
+
+<ellipse fill="none" stroke="black" cx="661.14" cy="-18" rx="90.91" ry="18" style=""/>
+<text text-anchor="middle" x="661.14" y="-13.8" font-family="Times,serif" font-size="14.00" style="">ERC721Enumerable</text>
+</g>
+<!-- TagNFT&#45;&gt;ERC721Enumerable -->
+<g id="edge5" class="edge" data-name="TagNFT-&gt;ERC721Enumerable">
+
+<path fill="none" stroke="black" d="M441,-79.19C481.82,-68.03 549.21,-49.61 598.69,-36.08" style=""/>
+<polygon fill="black" stroke="black" points="599.41,-39.51 608.13,-33.49 597.57,-32.76 599.41,-39.51" style=""/>
+</g>
+<!-- TagEscrowOtc -->
+<g id="node8" class="node" pointer-events="visible" data-name="TagEscrowOtc">
+
+<ellipse fill="none" stroke="black" cx="79.14" cy="-90" rx="68.91" ry="18" style=""/>
+<text text-anchor="middle" x="79.14" y="-85.8" font-family="Times,serif" font-size="14.00" style="">TagEscrowOtc</text>
+</g>
+<!-- TagEscrowOtc&#45;&gt;ReentrancyGuard -->
+<g id="edge7" class="edge" data-name="TagEscrowOtc-&gt;ReentrancyGuard">
+
+<path fill="none" stroke="black" d="M79.14,-71.7C79.14,-64.41 79.14,-55.73 79.14,-47.54" style=""/>
+<polygon fill="black" stroke="black" points="82.64,-47.62 79.14,-37.62 75.64,-47.62 82.64,-47.62" style=""/>
+</g>
+<!-- TagEscrowOtc&#45;&gt;Ownable -->
+<g id="edge8" class="edge" data-name="TagEscrowOtc-&gt;Ownable">
+
+<path fill="none" stroke="black" d="M110.52,-73.64C132.2,-63.03 161.14,-48.86 184.12,-37.61" style=""/>
+<polygon fill="black" stroke="black" points="185.42,-40.87 192.86,-33.33 182.34,-34.59 185.42,-40.87" style=""/>
+</g>
+</g>
+</svg>

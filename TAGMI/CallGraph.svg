@@ -1,0 +1,1096 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="907pt" height="2725pt" viewBox="0.00 0.00 906.63 2725.00">
+<g id="graph0" class="graph" transform="translate(4,2721) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-2721 902.63,-2721 902.63,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterTagEscrow">
+
+<path fill="#445773" stroke="#445773" d="M22.67,-711C22.67,-711 878.63,-711 878.63,-711 884.63,-711 890.63,-717 890.63,-723 890.63,-723 890.63,-1378 890.63,-1378 890.63,-1384 884.63,-1390 878.63,-1390 878.63,-1390 22.67,-1390 22.67,-1390 16.67,-1390 10.67,-1384 10.67,-1378 10.67,-1378 10.67,-723 10.67,-723 10.67,-717 16.67,-711 22.67,-711" style=""/>
+<text text-anchor="middle" x="450.65" y="-1373.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TagEscrow</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterTagNFT">
+
+<path fill="#445773" stroke="#445773" d="M20,-2055C20,-2055 529.82,-2055 529.82,-2055 535.82,-2055 541.82,-2061 541.82,-2067 541.82,-2067 541.82,-2560 541.82,-2560 541.82,-2566 535.82,-2572 529.82,-2572 529.82,-2572 20,-2572 20,-2572 14,-2572 8,-2566 8,-2560 8,-2560 8,-2067 8,-2067 8,-2061 14,-2055 20,-2055" style=""/>
+<text text-anchor="middle" x="274.91" y="-2555.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TagNFT</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterTagEscrowOtc">
+
+<path fill="#445773" stroke="#445773" d="M22.67,-8C22.67,-8 878.63,-8 878.63,-8 884.63,-8 890.63,-14 890.63,-20 890.63,-20 890.63,-467 890.63,-467 890.63,-473 884.63,-479 878.63,-479 878.63,-479 22.67,-479 22.67,-479 16.67,-479 10.67,-473 10.67,-467 10.67,-467 10.67,-20 10.67,-20 10.67,-14 16.67,-8 22.67,-8" style=""/>
+<text text-anchor="middle" x="450.65" y="-462.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">TagEscrowOtc</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterEnumerableSet.UintSet">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M717.05,-572C717.05,-572 840.49,-572 840.49,-572 846.49,-572 852.49,-578 852.49,-584 852.49,-584 852.49,-691 852.49,-691 852.49,-697 846.49,-703 840.49,-703 840.49,-703 717.05,-703 717.05,-703 711.05,-703 705.05,-697 705.05,-691 705.05,-691 705.05,-584 705.05,-584 705.05,-578 711.05,-572 717.05,-572" style=""/>
+<text text-anchor="middle" x="778.77" y="-686.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">EnumerableSet.UintSet</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterITagNFT">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M711.69,-1398C711.69,-1398 844.84,-1398 844.84,-1398 850.84,-1398 856.84,-1404 856.84,-1410 856.84,-1410 856.84,-1517 856.84,-1517 856.84,-1523 850.84,-1529 844.84,-1529 844.84,-1529 711.69,-1529 711.69,-1529 705.69,-1529 699.69,-1523 699.69,-1517 699.69,-1517 699.69,-1410 699.69,-1410 699.69,-1404 705.69,-1398 711.69,-1398" style=""/>
+<text text-anchor="middle" x="778.27" y="-1512.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ITagNFT</text>
+</g>
+<g id="clust6" class="cluster" data-name="clusterIERC20">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M702.05,-487C702.05,-487 854.48,-487 854.48,-487 860.48,-487 866.48,-493 866.48,-499 866.48,-499 866.48,-552 866.48,-552 866.48,-558 860.48,-564 854.48,-564 854.48,-564 702.05,-564 702.05,-564 696.05,-564 690.05,-558 690.05,-552 690.05,-552 690.05,-499 690.05,-499 690.05,-493 696.05,-487 702.05,-487" style=""/>
+<text text-anchor="middle" x="778.27" y="-547.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20</text>
+</g>
+<g id="clust7" class="cluster" data-name="clusterCounters.Counter">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M429.95,-1916C429.95,-1916 521.24,-1916 521.24,-1916 527.24,-1916 533.24,-1922 533.24,-1928 533.24,-1928 533.24,-2035 533.24,-2035 533.24,-2041 527.24,-2047 521.24,-2047 521.24,-2047 429.95,-2047 429.95,-2047 423.95,-2047 417.95,-2041 417.95,-2035 417.95,-2035 417.95,-1928 417.95,-1928 417.95,-1922 423.95,-1916 429.95,-1916" style=""/>
+<text text-anchor="middle" x="475.59" y="-2030.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Counters.Counter</text>
+</g>
+<g id="clust8" class="cluster" data-name="clusterOwnable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M381.69,-1777C381.69,-1777 569.5,-1777 569.5,-1777 575.5,-1777 581.5,-1783 581.5,-1789 581.5,-1789 581.5,-1896 581.5,-1896 581.5,-1902 575.5,-1908 569.5,-1908 569.5,-1908 381.69,-1908 381.69,-1908 375.69,-1908 369.69,-1902 369.69,-1896 369.69,-1896 369.69,-1789 369.69,-1789 369.69,-1783 375.69,-1777 381.69,-1777" style=""/>
+<text text-anchor="middle" x="475.59" y="-1891.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Ownable</text>
+</g>
+<g id="clust9" class="cluster" data-name="clusterERC721">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M428.88,-1692C428.88,-1692 522.3,-1692 522.3,-1692 528.3,-1692 534.3,-1698 534.3,-1704 534.3,-1704 534.3,-1757 534.3,-1757 534.3,-1763 528.3,-1769 522.3,-1769 522.3,-1769 428.88,-1769 428.88,-1769 422.88,-1769 416.88,-1763 416.88,-1757 416.88,-1757 416.88,-1704 416.88,-1704 416.88,-1698 422.88,-1692 428.88,-1692" style=""/>
+<text text-anchor="middle" x="475.59" y="-1752.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC721</text>
+</g>
+<g id="clust10" class="cluster" data-name="clusterERC721Enumerable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M377.38,-1607C377.38,-1607 573.81,-1607 573.81,-1607 579.81,-1607 585.81,-1613 585.81,-1619 585.81,-1619 585.81,-1672 585.81,-1672 585.81,-1678 579.81,-1684 573.81,-1684 573.81,-1684 377.38,-1684 377.38,-1684 371.38,-1684 365.38,-1678 365.38,-1672 365.38,-1672 365.38,-1619 365.38,-1619 365.38,-1613 371.38,-1607 377.38,-1607" style=""/>
+<text text-anchor="middle" x="475.59" y="-1667.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ERC721Enumerable</text>
+</g>
+<g id="clust11" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="73.64,-2580 73.64,-2709 510.59,-2709 510.59,-2580 73.64,-2580" style=""/>
+<text text-anchor="middle" x="292.12" y="-2692.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- TagEscrow.onlyCaseArbitrator -->
+<g id="node1" class="node" pointer-events="visible" data-name="TagEscrow.onlyCaseArbitrator">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="239.42,-1327.54 239.42,-1342.46 185.07,-1353 108.21,-1353 53.86,-1342.46 53.86,-1327.54 108.21,-1317 185.07,-1317 239.42,-1327.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="243.42,-1324.25 243.42,-1345.75 185.46,-1357 107.82,-1357 49.86,-1345.75 49.86,-1324.25 107.82,-1313 185.46,-1313 243.42,-1324.25" style=""/>
+<text text-anchor="middle" x="146.64" y="-1330.8" font-family="Times,serif" font-size="14.00" style="">onlyCaseArbitrator</text>
+</g>
+<!-- TagEscrow.onlyOpenCase -->
+<g id="node2" class="node" pointer-events="visible" data-name="TagEscrow.onlyOpenCase">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="220.12,-895.54 220.12,-910.46 177.07,-921 116.21,-921 73.16,-910.46 73.16,-895.54 116.21,-885 177.07,-885 220.12,-895.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="224.12,-892.41 224.12,-913.59 177.56,-925 115.72,-925 69.17,-913.59 69.17,-892.41 115.72,-881 177.56,-881 224.12,-892.41" style=""/>
+<text text-anchor="middle" x="146.64" y="-898.8" font-family="Times,serif" font-size="14.00" style="">onlyOpenCase</text>
+</g>
+<!-- EnumerableSet.UintSet.contains -->
+<g id="node53" class="node" pointer-events="visible" data-name="EnumerableSet.UintSet.contains">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-598" rx="43.44" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-593.8" font-family="Times,serif" font-size="14.00" style="">contains</text>
+</g>
+<!-- TagEscrow.onlyOpenCase&#45;&gt;EnumerableSet.UintSet.contains -->
+<g id="edge1" class="edge" data-name="TagEscrow.onlyOpenCase-&gt;EnumerableSet.UintSet.contains">
+
+<path fill="none" stroke="white" stroke-width="2" d="M225.43,-898.75C244.56,-894.15 263.48,-886.02 277.28,-872 329.01,-819.43 261.6,-762.63 313.28,-710 423.19,-598.07 624.25,-590.44 721.57,-594.05" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="721.14,-597.54 731.29,-594.48 721.45,-590.54 721.14,-597.54" style=""/>
+</g>
+<!-- TagEscrow.onlyParticipatingParty -->
+<g id="node3" class="node" pointer-events="visible" data-name="TagEscrow.onlyParticipatingParty">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="252.65,-1265.54 252.65,-1280.46 190.55,-1291 102.73,-1291 40.63,-1280.46 40.63,-1265.54 102.73,-1255 190.55,-1255 252.65,-1265.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="256.65,-1262.17 256.65,-1283.83 190.89,-1295 102.39,-1295 36.63,-1283.83 36.63,-1262.17 102.39,-1251 190.89,-1251 256.65,-1262.17" style=""/>
+<text text-anchor="middle" x="146.64" y="-1268.8" font-family="Times,serif" font-size="14.00" style="">onlyParticipatingParty</text>
+</g>
+<!-- ITagNFT.ownerOf -->
+<g id="node55" class="node" pointer-events="visible" data-name="ITagNFT.ownerOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-1478" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-1473.8" font-family="Times,serif" font-size="14.00" style="">ownerOf</text>
+</g>
+<!-- TagEscrow.onlyParticipatingParty&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge2" class="edge" data-name="TagEscrow.onlyParticipatingParty-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M258.13,-1279.93C265.22,-1283.97 271.73,-1288.95 277.28,-1295 350.48,-1374.82 231.24,-1465.3 313.28,-1536 435.3,-1641.15 645.95,-1543.68 735.28,-1498.19" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="736.82,-1501.33 744.11,-1493.65 733.62,-1495.11 736.82,-1501.33" style=""/>
+</g>
+<!-- TagEscrow.onlyParticipatingParty&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge3" class="edge" data-name="TagEscrow.onlyParticipatingParty-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M237.16,-1288.56C252.3,-1293.67 266.57,-1301.32 277.28,-1313 350.48,-1392.82 231.24,-1483.3 313.28,-1554 440.03,-1663.22 662.43,-1553.82 745.11,-1501.82" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="746.79,-1504.91 753.29,-1496.54 742.99,-1499.03 746.79,-1504.91" style=""/>
+</g>
+<!-- TagEscrow.nftContractOnly -->
+<g id="node4" class="node" pointer-events="visible" data-name="TagEscrow.nftContractOnly">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="556,-1165.54 556,-1180.46 508.9,-1191 442.29,-1191 395.18,-1180.46 395.18,-1165.54 442.29,-1155 508.9,-1155 556,-1165.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="560,-1162.34 560,-1183.66 509.34,-1195 441.84,-1195 391.18,-1183.66 391.18,-1162.34 441.84,-1151 509.34,-1151 560,-1162.34" style=""/>
+<text text-anchor="middle" x="475.59" y="-1168.8" font-family="Times,serif" font-size="14.00" style="">nftContractOnly</text>
+</g>
+<!-- TagEscrow.address -->
+<g id="node23" class="node" pointer-events="visible" data-name="TagEscrow.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-1115" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-1110.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- TagEscrow.nftContractOnly&#45;&gt;TagEscrow.address -->
+<g id="edge4" class="edge" data-name="TagEscrow.nftContractOnly-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M550.48,-1158.83C577.93,-1153.55 609.34,-1147.51 637.91,-1142 667.64,-1136.26 700.95,-1129.81 727.54,-1124.65" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="727.88,-1128.15 737.03,-1122.81 726.55,-1121.28 727.88,-1128.15" style=""/>
+</g>
+<!-- TagEscrow.&lt;Constructor&gt; -->
+<g id="node5" class="node" pointer-events="visible" data-name="TagEscrow.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="475.59" cy="-1115" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1110.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- TagEscrow.&lt;Constructor&gt;&#45;&gt;TagEscrow.address -->
+<g id="edge5" class="edge" data-name="TagEscrow.&lt;Constructor&gt;-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M544.45,-1115C598.82,-1115 674.05,-1115 724.12,-1115" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="723.87,-1118.5 733.87,-1115 723.87,-1111.5 723.87,-1118.5" style=""/>
+</g>
+<!-- TagEscrow.createEscrow -->
+<g id="node6" class="node" pointer-events="visible" data-name="TagEscrow.createEscrow">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="475.59" cy="-1285" rx="63.08" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1280.8" font-family="Times,serif" font-size="14.00" style="">createEscrow</text>
+</g>
+<!-- TagEscrow.addEscrowIdToAddress -->
+<g id="node15" class="node" pointer-events="visible" data-name="TagEscrow.addEscrowIdToAddress">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-1285" rx="104.22" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-1280.8" font-family="Times,serif" font-size="14.00" style="">addEscrowIdToAddress</text>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.addEscrowIdToAddress -->
+<g id="edge16" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.addEscrowIdToAddress">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M529.66,-1274.42C572,-1271.41 632.37,-1270.73 682.91,-1272.37" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="682.71,-1275.86 692.84,-1272.74 682.97,-1268.87 682.71,-1275.86" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.addEscrowIdToAddress -->
+<g id="edge17" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.addEscrowIdToAddress">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M539.99,-1285C574.81,-1285 619.12,-1285 659.99,-1285" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="659.81,-1288.5 669.81,-1285 659.81,-1281.5 659.81,-1288.5" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.addEscrowIdToAddress -->
+<g id="edge18" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.addEscrowIdToAddress">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M529.66,-1295.58C572,-1298.59 632.37,-1299.27 682.91,-1297.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="682.97,-1301.13 692.84,-1297.26 682.71,-1294.14 682.97,-1301.13" style=""/>
+</g>
+<!-- TagEscrow.generateEscrowId -->
+<g id="node17" class="node" pointer-events="visible" data-name="TagEscrow.generateEscrowId">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-1339" rx="80.99" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-1334.8" font-family="Times,serif" font-size="14.00" style="">generateEscrowId</text>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.generateEscrowId -->
+<g id="edge19" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.generateEscrowId">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M532.65,-1294.02C563.7,-1299.11 602.98,-1305.69 637.91,-1312 658.79,-1315.77 681.4,-1320.06 702.21,-1324.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="701.44,-1327.51 711.92,-1325.98 702.78,-1320.64 701.44,-1327.51" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.address -->
+<g id="edge6" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M481.7,-1266C502.48,-1232.08 582.3,-1233.09 637.91,-1204 673.7,-1185.27 705.78,-1153.96 730.12,-1130.5" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="732.4,-1133.16 737.2,-1123.71 727.56,-1128.1 732.4,-1133.16" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.address -->
+<g id="edge7" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M490.01,-1266.14C518.84,-1249.96 588.09,-1248.07 637.91,-1222 678.39,-1200.82 714.13,-1163.54 739.28,-1137.26" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="741.55,-1139.95 745.96,-1130.32 736.51,-1135.1 741.55,-1139.95" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.address -->
+<g id="edge8" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M518.62,-1270.52C552.57,-1265.46 600.67,-1259.48 637.91,-1240 684.07,-1215.85 724.06,-1170.77 749.21,-1141.3" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="751.7,-1143.78 755.52,-1133.9 746.37,-1139.24 751.7,-1143.78" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.address -->
+<g id="edge10" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M539.63,-1283.57C570.69,-1280.66 607.84,-1273.73 637.91,-1258 690.06,-1230.71 734.34,-1176.71 758.25,-1143.44" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="760.94,-1145.69 763.82,-1135.49 755.21,-1141.67 760.94,-1145.69" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.address -->
+<g id="edge12" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M518.27,-1299.54C552.25,-1301.5 600.54,-1295.55 637.91,-1276 695.12,-1246.06 742.86,-1183.97 764.62,-1145.44" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="767.64,-1147.22 769.22,-1136.74 761.45,-1143.95 767.64,-1147.22" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.address -->
+<g id="edge13" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M488.73,-1304.04C516.73,-1322.01 587.34,-1320.46 637.91,-1294 699.52,-1261.76 750.15,-1192.24 769.17,-1146.34" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="772.37,-1147.79 772.54,-1137.19 765.8,-1145.37 772.37,-1147.79" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;TagEscrow.address -->
+<g id="edge14" class="edge" data-name="TagEscrow.createEscrow-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M481.42,-1304.03C501.76,-1340.07 582.05,-1341.22 637.91,-1312 702.88,-1278.01 755.63,-1202.56 771.99,-1146.91" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="775.38,-1147.78 774.41,-1137.23 768.59,-1146.08 775.38,-1147.78" style=""/>
+</g>
+<!-- EnumerableSet.UintSet.add -->
+<g id="node54" class="node" pointer-events="visible" data-name="EnumerableSet.UintSet.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-652" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-647.8" font-family="Times,serif" font-size="14.00" style="">add</text>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;EnumerableSet.UintSet.add -->
+<g id="edge15" class="edge" data-name="TagEscrow.createEscrow-&gt;EnumerableSet.UintSet.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M536.17,-1291.71C570.98,-1292.06 612.86,-1285.7 637.91,-1258 720.2,-1166.98 607.33,-810.07 673.91,-707 688.7,-684.09 716.38,-670.09 739.37,-661.95" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="740.23,-665.35 748.67,-658.94 738.08,-658.69 740.23,-665.35" style=""/>
+</g>
+<!-- IERC20.safeTransferFrom -->
+<g id="node57" class="node" pointer-events="visible" data-name="IERC20.safeTransferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-513" rx="80.43" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-508.8" font-family="Times,serif" font-size="14.00" style="">safeTransferFrom</text>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;IERC20.safeTransferFrom -->
+<g id="edge9" class="edge" data-name="TagEscrow.createEscrow-&gt;IERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M539.91,-1283.94C574.01,-1282.76 613.9,-1275.91 637.91,-1249 689.02,-1191.72 632.67,-623.76 673.91,-559 681.15,-547.63 691.57,-538.46 703.04,-531.27" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="704.63,-534.39 711.65,-526.45 701.21,-528.28 704.63,-534.39" style=""/>
+</g>
+<!-- TagEscrow.createEscrow&#45;&gt;IERC20.safeTransferFrom -->
+<g id="edge11" class="edge" data-name="TagEscrow.createEscrow-&gt;IERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M522.07,-1298.48C559.04,-1302.59 609.55,-1298.78 637.91,-1267 689.02,-1209.72 632.67,-641.76 673.91,-577 686.32,-557.51 708.09,-544.48 728.46,-535.23" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="729.61,-538.55 737.43,-531.39 726.86,-532.11 729.61,-538.55" style=""/>
+</g>
+<!-- TagEscrow.depositFunds -->
+<g id="node7" class="node" pointer-events="visible" data-name="TagEscrow.depositFunds">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="475.59" cy="-1339" rx="62.59" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1334.8" font-family="Times,serif" font-size="14.00" style="">depositFunds</text>
+</g>
+<!-- TagEscrow.depositFunds&#45;&gt;TagEscrow.address -->
+<g id="edge20" class="edge" data-name="TagEscrow.depositFunds-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M485.13,-1320C510.64,-1296.79 587.6,-1299.55 637.91,-1267 662.12,-1251.33 657.45,-1236.69 673.91,-1213 692.99,-1185.52 714.6,-1155.47 733.11,-1133.52" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="735.71,-1135.86 739.65,-1126.03 730.44,-1131.26 735.71,-1135.86" style=""/>
+</g>
+<!-- TagEscrow.depositFunds&#45;&gt;TagEscrow.address -->
+<g id="edge21" class="edge" data-name="TagEscrow.depositFunds-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M504.95,-1321.75C539.2,-1314.55 597.26,-1311.3 637.91,-1285 662.12,-1269.33 657.45,-1254.69 673.91,-1231 696.23,-1198.86 722.01,-1163.18 742.24,-1138.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="744.72,-1141.35 748.58,-1131.48 739.41,-1136.79 744.72,-1141.35" style=""/>
+</g>
+<!-- TagEscrow.depositFunds&#45;&gt;TagEscrow.address -->
+<g id="edge22" class="edge" data-name="TagEscrow.depositFunds-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M535.52,-1332.33C568.01,-1329.34 607.75,-1322.51 637.91,-1303 662.12,-1287.33 657.45,-1272.69 673.91,-1249 699.97,-1211.46 730.76,-1169.11 751.92,-1142.08" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="754.43,-1144.55 757.91,-1134.55 748.95,-1140.19 754.43,-1144.55" style=""/>
+</g>
+<!-- TagEscrow.depositFunds&#45;&gt;TagEscrow.address -->
+<g id="edge23" class="edge" data-name="TagEscrow.depositFunds-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M531.7,-1348.23C564.85,-1347.85 606.56,-1341.29 637.91,-1321 662.12,-1305.33 657.45,-1290.69 673.91,-1267 703.65,-1224.16 739.55,-1175.06 760.26,-1144.32" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="763.15,-1146.29 765.74,-1136.01 757.31,-1142.43 763.15,-1146.29" style=""/>
+</g>
+<!-- TagEscrow.depositFunds&#45;&gt;TagEscrow.address -->
+<g id="edge24" class="edge" data-name="TagEscrow.depositFunds-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M496.76,-1357.32C529.2,-1368.93 593.8,-1367.54 637.91,-1339 662.12,-1323.33 657.45,-1308.69 673.91,-1285 706.87,-1237.53 747.39,-1182.36 766.42,-1145.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="769.53,-1147.43 770.7,-1136.9 763.22,-1144.4 769.53,-1147.43" style=""/>
+</g>
+<!-- TagEscrow.depositFunds&#45;&gt;TagEscrow.address -->
+<g id="edge25" class="edge" data-name="TagEscrow.depositFunds-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M483.74,-1358.04C507.71,-1386.67 586.65,-1390.17 637.91,-1357 662.12,-1341.33 657.45,-1326.69 673.91,-1303 709.44,-1251.83 753.75,-1191.71 770.47,-1146.59" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="773.77,-1147.76 773.49,-1137.17 767.1,-1145.62 773.77,-1147.76" style=""/>
+</g>
+<!-- ITagNFT.mintEscrowNft -->
+<g id="node56" class="node" pointer-events="visible" data-name="ITagNFT.mintEscrowNft">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-1424" rx="70.65" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-1419.8" font-family="Times,serif" font-size="14.00" style="">mintEscrowNft</text>
+</g>
+<!-- TagEscrow.depositFunds&#45;&gt;ITagNFT.mintEscrowNft -->
+<g id="edge26" class="edge" data-name="TagEscrow.depositFunds-&gt;ITagNFT.mintEscrowNft">
+
+<path fill="none" stroke="white" stroke-width="2" d="M539.43,-1337.8C569.93,-1341.65 606.65,-1349.44 637.91,-1362 655.52,-1369.08 656.61,-1377.16 673.91,-1385 690.53,-1392.54 709.52,-1398.69 726.65,-1403.92" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="725.54,-1407.24 736.12,-1406.78 727.56,-1400.54 725.54,-1407.24" style=""/>
+</g>
+<!-- TagEscrow.depositFunds&#45;&gt;ITagNFT.mintEscrowNft -->
+<g id="edge27" class="edge" data-name="TagEscrow.depositFunds-&gt;ITagNFT.mintEscrowNft">
+
+<path fill="none" stroke="white" stroke-width="2" d="M524.87,-1351.42C557.65,-1357.21 601.48,-1365.36 637.91,-1380 655.52,-1387.08 656.61,-1395.16 673.91,-1403 681.95,-1406.64 690.54,-1409.96 699.2,-1412.9" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="697.98,-1416.18 708.57,-1415.87 700.1,-1409.51 697.98,-1416.18" style=""/>
+</g>
+<!-- TagEscrow.withdrawFunds -->
+<g id="node8" class="node" pointer-events="visible" data-name="TagEscrow.withdrawFunds">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="475.59" cy="-1061" rx="71.25" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1056.8" font-family="Times,serif" font-size="14.00" style="">withdrawFunds</text>
+</g>
+<!-- TagEscrow.withdrawFunds&#45;&gt;TagEscrow.address -->
+<g id="edge28" class="edge" data-name="TagEscrow.withdrawFunds-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M547.33,-1064.08C575.54,-1068.1 608.29,-1073.65 637.91,-1079 670.57,-1084.9 707.43,-1092.06 735.04,-1098.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="733.92,-1102.16 744.47,-1101.27 735.66,-1095.38 733.92,-1102.16" style=""/>
+</g>
+<!-- TagEscrow.withdrawFunds&#45;&gt;TagEscrow.address -->
+<g id="edge29" class="edge" data-name="TagEscrow.withdrawFunds-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M522.19,-1075.86C554.53,-1082.58 598.92,-1089.96 637.91,-1097 666.54,-1102.17 698.4,-1108.31 724.42,-1112.55" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="723.66,-1115.97 734.08,-1114.05 724.74,-1109.06 723.66,-1115.97" style=""/>
+</g>
+<!-- TagEscrow.reclaimFunds -->
+<g id="node9" class="node" pointer-events="visible" data-name="TagEscrow.reclaimFunds">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="146.64" cy="-1215" rx="63.71" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-1210.8" font-family="Times,serif" font-size="14.00" style="">reclaimFunds</text>
+</g>
+<!-- TagEscrow.transferFundsToParty -->
+<g id="node16" class="node" pointer-events="visible" data-name="TagEscrow.transferFundsToParty">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-1007" rx="95" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1002.8" font-family="Times,serif" font-size="14.00" style="">transferFundsToParty</text>
+</g>
+<!-- TagEscrow.reclaimFunds&#45;&gt;TagEscrow.transferFundsToParty -->
+<g id="edge30" class="edge" data-name="TagEscrow.reclaimFunds-&gt;TagEscrow.transferFundsToParty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M207.06,-1207.81C231.74,-1204.4 258.85,-1196.98 277.28,-1179 327.58,-1129.91 262.02,-1073.09 313.28,-1025 334.02,-1005.54 363.23,-997.18 391.1,-994.74" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="390.97,-998.25 400.75,-994.19 390.57,-991.27 390.97,-998.25" style=""/>
+</g>
+<!-- TagEscrow.reclaimFunds&#45;&gt;TagEscrow.transferFundsToParty -->
+<g id="edge32" class="edge" data-name="TagEscrow.reclaimFunds-&gt;TagEscrow.transferFundsToParty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M203.44,-1224.54C229.05,-1223.1 257.95,-1215.87 277.28,-1197 327.58,-1147.91 262.02,-1091.09 313.28,-1043 329.03,-1028.22 349.67,-1019.84 370.89,-1015.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="371.28,-1018.62 380.45,-1013.32 369.97,-1011.74 371.28,-1018.62" style=""/>
+</g>
+<!-- TagEscrow.reclaimFunds&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge31" class="edge" data-name="TagEscrow.reclaimFunds-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M201.87,-1204.66C228.21,-1205.6 258.22,-1212.74 277.28,-1233 353.31,-1313.79 229.37,-1407.43 313.28,-1480 372.5,-1531.22 609.23,-1498.33 719.81,-1483.46" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="720.2,-1486.93 729.65,-1482.14 719.27,-1480 720.2,-1486.93" style=""/>
+</g>
+<!-- TagEscrow.reclaimFunds&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge33" class="edge" data-name="TagEscrow.reclaimFunds-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M207.8,-1221.47C232.61,-1224.74 259.63,-1232.25 277.28,-1251 353.31,-1331.79 229.37,-1425.43 313.28,-1498 373.91,-1550.43 620.54,-1514.72 727.45,-1491.98" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="728.1,-1495.42 737.11,-1489.86 726.6,-1488.59 728.1,-1495.42" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome -->
+<g id="node10" class="node" pointer-events="visible" data-name="TagEscrow.determineOutcome">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="146.64" cy="-1161" rx="85.09" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-1156.8" font-family="Times,serif" font-size="14.00" style="">determineOutcome</text>
+</g>
+<!-- TagEscrow.collectArbitratorFee -->
+<g id="node14" class="node" pointer-events="visible" data-name="TagEscrow.collectArbitratorFee">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-953" rx="89.16" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-948.8" font-family="Times,serif" font-size="14.00" style="">collectArbitratorFee</text>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;TagEscrow.collectArbitratorFee -->
+<g id="edge44" class="edge" data-name="TagEscrow.determineOutcome-&gt;TagEscrow.collectArbitratorFee">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M158.94,-1141.82C182.39,-1103.92 240.3,-1019.66 313.28,-980 331.86,-969.9 353.28,-963.4 374.32,-959.25" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="374.76,-962.72 384,-957.54 373.54,-955.83 374.76,-962.72" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;TagEscrow.transferFundsToParty -->
+<g id="edge34" class="edge" data-name="TagEscrow.determineOutcome-&gt;TagEscrow.transferFundsToParty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.54,-1141.82C175.78,-1104.31 242.99,-1037.55 313.28,-1007 352.25,-990.06 400.78,-983.7 434.37,-986.73" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="433.53,-990.15 443.91,-988.02 434.47,-983.21 433.53,-990.15" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;TagEscrow.transferFundsToParty -->
+<g id="edge36" class="edge" data-name="TagEscrow.determineOutcome-&gt;TagEscrow.transferFundsToParty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M160.74,-1142.11C186.93,-1111.51 248.81,-1053.02 313.28,-1025 330,-1017.74 348.47,-1012.42 366.77,-1008.67" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="367.22,-1012.14 376.41,-1006.87 365.94,-1005.26 367.22,-1012.14" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;TagEscrow.transferFundsToParty -->
+<g id="edge39" class="edge" data-name="TagEscrow.determineOutcome-&gt;TagEscrow.transferFundsToParty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M171.77,-1142.55C201.96,-1115.78 256.62,-1067.63 313.28,-1043 337.23,-1032.59 364.79,-1026.18 390.27,-1021.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="390.68,-1025.29 400,-1020.25 389.57,-1018.38 390.68,-1025.29" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;TagEscrow.transferFundsToParty -->
+<g id="edge41" class="edge" data-name="TagEscrow.determineOutcome-&gt;TagEscrow.transferFundsToParty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M186.88,-1143.98C218.35,-1119.91 265.09,-1081.94 313.28,-1061 353.63,-1043.46 404.22,-1037.26 437.88,-1029.12" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="438.68,-1032.53 447.41,-1026.53 436.84,-1025.77 438.68,-1032.53" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge35" class="edge" data-name="TagEscrow.determineOutcome-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M153.87,-1141.82C174.68,-1112.73 242.43,-1107.95 277.28,-1143 334.19,-1200.24 257.28,-1262.87 313.28,-1321 430.05,-1442.21 653.59,-1441.59 740.98,-1458.63" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="740.09,-1462.01 750.61,-1460.81 741.63,-1455.19 740.09,-1462.01" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge37" class="edge" data-name="TagEscrow.determineOutcome-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M165.56,-1142.11C193.53,-1130.18 247.46,-1131 277.28,-1161 334.19,-1218.24 257.28,-1280.87 313.28,-1339 424.06,-1453.99 630.94,-1459.33 726.49,-1466.45" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="725.95,-1469.92 736.2,-1467.24 726.51,-1462.94 725.95,-1469.92" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge38" class="edge" data-name="TagEscrow.determineOutcome-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M227.81,-1154.3C246.13,-1158.15 264.07,-1165.71 277.28,-1179 334.19,-1236.24 257.28,-1298.87 313.28,-1357 421.15,-1468.97 620.14,-1476.97 718.74,-1476.81" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="718.67,-1480.31 728.65,-1476.75 718.63,-1473.31 718.67,-1480.31" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge40" class="edge" data-name="TagEscrow.determineOutcome-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M222.08,-1170.44C242.34,-1174.63 262.69,-1182.33 277.28,-1197 334.19,-1254.24 257.28,-1316.87 313.28,-1375 422.83,-1488.71 626.34,-1495.2 723.26,-1487.37" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="723.55,-1490.86 733.19,-1486.46 722.91,-1483.89 723.55,-1490.86" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge42" class="edge" data-name="TagEscrow.determineOutcome-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M178.55,-1179.11C208.01,-1184.97 251.59,-1189.16 277.28,-1215 334.19,-1272.24 257.28,-1334.87 313.28,-1393 427.83,-1511.9 645.12,-1513.57 735.84,-1495.73" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="736.58,-1499.15 745.58,-1493.57 735.06,-1492.32 736.58,-1499.15" style=""/>
+</g>
+<!-- TagEscrow.determineOutcome&#45;&gt;ITagNFT.ownerOf -->
+<g id="edge43" class="edge" data-name="TagEscrow.determineOutcome-&gt;ITagNFT.ownerOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M155.4,-1180.15C177.81,-1202.53 243.24,-1198.76 277.28,-1233 334.19,-1290.24 257.28,-1352.87 313.28,-1411 433.49,-1535.78 666.85,-1531.45 748.35,-1501.15" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="749.73,-1504.36 757.51,-1497.18 746.94,-1497.94 749.73,-1504.36" style=""/>
+</g>
+<!-- TagEscrow.updateNftContractAddress -->
+<g id="node11" class="node" pointer-events="visible" data-name="TagEscrow.updateNftContractAddress">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="475.59" cy="-737" rx="114.6" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-732.8" font-family="Times,serif" font-size="14.00" style="">updateNftContractAddress</text>
+</g>
+<!-- TagEscrow.updateNftContractAddress&#45;&gt;TagEscrow.address -->
+<g id="edge45" class="edge" data-name="TagEscrow.updateNftContractAddress-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M589.26,-740.62C606.88,-745.3 623.88,-752.67 637.91,-764 739.53,-846.06 767.38,-1012.97 774.74,-1082.97" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="771.22,-1082.99 775.66,-1092.61 778.19,-1082.32 771.22,-1082.99" style=""/>
+</g>
+<!-- TagEscrow.ITagNFT -->
+<g id="node24" class="node" pointer-events="visible" data-name="TagEscrow.ITagNFT">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-737" rx="47.52" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-732.8" font-family="Times,serif" font-size="14.00" style="">ITagNFT</text>
+</g>
+<!-- TagEscrow.updateNftContractAddress&#45;&gt;TagEscrow.ITagNFT -->
+<g id="edge46" class="edge" data-name="TagEscrow.updateNftContractAddress-&gt;TagEscrow.ITagNFT">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M591.55,-737C634.22,-737 680.93,-737 716.82,-737" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="716.51,-740.5 726.51,-737 716.51,-733.5 716.51,-740.5" style=""/>
+</g>
+<!-- TagEscrow.updateTreasuryAddress -->
+<g id="node12" class="node" pointer-events="visible" data-name="TagEscrow.updateTreasuryAddress">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="475.59" cy="-899" rx="102.99" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-894.8" font-family="Times,serif" font-size="14.00" style="">updateTreasuryAddress</text>
+</g>
+<!-- TagEscrow.updateTreasuryAddress&#45;&gt;TagEscrow.address -->
+<g id="edge47" class="edge" data-name="TagEscrow.updateTreasuryAddress-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M576.84,-903.61C598.11,-907.83 619.64,-914.78 637.91,-926 700.2,-964.25 743.6,-1041.63 764.01,-1084.57" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="760.74,-1085.84 768.11,-1093.46 767.1,-1082.91 760.74,-1085.84" style=""/>
+</g>
+<!-- TagEscrow.changeTagFee -->
+<g id="node13" class="node" pointer-events="visible" data-name="TagEscrow.changeTagFee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="146.64" cy="-845" rx="67.17" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-840.8" font-family="Times,serif" font-size="14.00" style="">changeTagFee</text>
+</g>
+<!-- TagEscrow.collectArbitratorFee&#45;&gt;TagEscrow.address -->
+<g id="edge48" class="edge" data-name="TagEscrow.collectArbitratorFee-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M501.22,-934.37C534.12,-926.18 593.42,-930.53 637.91,-953 695.81,-982.24 745.46,-1043.89 766.51,-1084.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="763.34,-1085.61 770.8,-1093.14 769.66,-1082.6 763.34,-1085.61" style=""/>
+</g>
+<!-- TagEscrow.collectArbitratorFee&#45;&gt;TagEscrow.address -->
+<g id="edge49" class="edge" data-name="TagEscrow.collectArbitratorFee-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M564.59,-949.37C589.27,-952.95 615.47,-959.67 637.91,-971 690.85,-997.74 736.9,-1051.57 760.49,-1085.5" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="757.46,-1087.27 765.92,-1093.65 763.29,-1083.39 757.46,-1087.27" style=""/>
+</g>
+<!-- TagEscrow.collectArbitratorFee&#45;&gt;TagEscrow.address -->
+<g id="edge50" class="edge" data-name="TagEscrow.collectArbitratorFee-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M549.36,-964.22C578.16,-968.34 610.79,-975.3 637.91,-989 685.24,-1012.91 727.07,-1058.47 752.25,-1087.91" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="749.36,-1089.91 758.49,-1095.28 754.7,-1085.39 749.36,-1089.91" style=""/>
+</g>
+<!-- TagEscrow.collectArbitratorFee&#45;&gt;TagEscrow.address -->
+<g id="edge51" class="edge" data-name="TagEscrow.collectArbitratorFee-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M503.22,-971.51C536.48,-980.36 594.31,-984.98 637.91,-1007 679.41,-1027.96 716.68,-1065.57 742.21,-1091.55" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="739.43,-1093.72 748.95,-1098.38 744.42,-1088.8 739.43,-1093.72" style=""/>
+</g>
+<!-- TagEscrow.transferFundsToParty&#45;&gt;TagEscrow.address -->
+<g id="edge52" class="edge" data-name="TagEscrow.transferFundsToParty-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M571.46,-1008.29C593.66,-1011.97 616.94,-1017.44 637.91,-1025 680.43,-1040.34 724.79,-1068.58 751.72,-1089.59" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="749.17,-1092.02 759.14,-1095.61 753.59,-1086.59 749.17,-1092.02" style=""/>
+</g>
+<!-- TagEscrow.transferFundsToParty&#45;&gt;TagEscrow.address -->
+<g id="edge53" class="edge" data-name="TagEscrow.transferFundsToParty-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M543.11,-1020.9C572.76,-1025.58 607.72,-1032.11 637.91,-1043 673.84,-1055.96 711.07,-1078.13 738.01,-1094.64" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="735.95,-1097.48 746.31,-1099.74 739.62,-1091.52 735.95,-1097.48" style=""/>
+</g>
+<!-- TagEscrow.getEscrowsForAddress -->
+<g id="node18" class="node" pointer-events="visible" data-name="TagEscrow.getEscrowsForAddress">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="146.64" cy="-791" rx="100.74" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-786.8" font-family="Times,serif" font-size="14.00" style="">getEscrowsForAddress</text>
+</g>
+<!-- TagEscrow.getEscrowsPendingDepositForAddress -->
+<g id="node19" class="node" pointer-events="visible" data-name="TagEscrow.getEscrowsPendingDepositForAddress">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="475.59" cy="-845" rx="162.13" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-840.8" font-family="Times,serif" font-size="14.00" style="">getEscrowsPendingDepositForAddress</text>
+</g>
+<!-- TagEscrow.getEscrowsPendingDepositForAddress&#45;&gt;TagEscrow.address -->
+<g id="edge54" class="edge" data-name="TagEscrow.getEscrowsPendingDepositForAddress-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M638.8,-845.63C719.91,-902.75 759.8,-1023.36 772.56,-1083.28" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="769.07,-1083.66 774.42,-1092.8 775.94,-1082.32 769.07,-1083.66" style=""/>
+</g>
+<!-- TagEscrow.getEscrowsPendingDepositForAddress&#45;&gt;TagEscrow.address -->
+<g id="edge55" class="edge" data-name="TagEscrow.getEscrowsPendingDepositForAddress-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M622.07,-853.69C627.59,-856.42 632.9,-859.51 637.91,-863 715.35,-916.89 755.45,-1028.66 770.33,-1083.55" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="766.87,-1084.15 772.75,-1092.97 773.65,-1082.41 766.87,-1084.15" style=""/>
+</g>
+<!-- TagEscrow.getEscrowsPendingDepositForAddress&#45;&gt;TagEscrow.address -->
+<g id="edge56" class="edge" data-name="TagEscrow.getEscrowsPendingDepositForAddress-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M587.53,-859.12C605.45,-863.74 622.99,-870.62 637.91,-881 710.25,-931.34 750.01,-1032.18 767.06,-1083.61" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="763.68,-1084.52 770.08,-1092.97 770.34,-1082.37 763.68,-1084.52" style=""/>
+</g>
+<!-- TagEscrow.getEscrowsPendingDepositForAddress&#45;&gt;TagEscrow.address -->
+<g id="edge57" class="edge" data-name="TagEscrow.getEscrowsPendingDepositForAddress-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M516.95,-863.83C551.92,-869.42 602.36,-874.27 637.91,-899 704.96,-945.67 744.02,-1035.72 762.96,-1084.5" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="759.63,-1085.61 766.47,-1093.7 766.17,-1083.11 759.63,-1085.61" style=""/>
+</g>
+<!-- TagEscrow.getEscrowsStartedForAddress -->
+<g id="node20" class="node" pointer-events="visible" data-name="TagEscrow.getEscrowsStartedForAddress">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="146.64" cy="-737" rx="127.94" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-732.8" font-family="Times,serif" font-size="14.00" style="">getEscrowsStartedForAddress</text>
+</g>
+<!-- TagEscrow.getEscrowsResolvedForAddress -->
+<g id="node21" class="node" pointer-events="visible" data-name="TagEscrow.getEscrowsResolvedForAddress">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="475.59" cy="-791" rx="136.62" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-786.8" font-family="Times,serif" font-size="14.00" style="">getEscrowsResolvedForAddress</text>
+</g>
+<!-- TagEscrow.getEscrowsResolvedForAddress&#45;&gt;TagEscrow.address -->
+<g id="edge58" class="edge" data-name="TagEscrow.getEscrowsResolvedForAddress-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M611.59,-794.05C620.97,-797.99 629.88,-802.91 637.91,-809 728.38,-877.63 762.46,-1019.5 773.11,-1083.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="769.62,-1083.51 774.62,-1092.86 776.54,-1082.44 769.62,-1083.51" style=""/>
+</g>
+<!-- TagEscrow.getEscrowsResolvedForAddress&#45;&gt;TagEscrow.address -->
+<g id="edge59" class="edge" data-name="TagEscrow.getEscrowsResolvedForAddress-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M584.08,-803.04C603.38,-807.74 622.3,-815.16 637.91,-827 723.76,-892.12 758.83,-1023.2 771.29,-1083.55" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="767.78,-1083.86 773.15,-1093 774.65,-1082.51 767.78,-1083.86" style=""/>
+</g>
+<!-- TagEscrow.getOpenEndedEscrows -->
+<g id="node22" class="node" pointer-events="visible" data-name="TagEscrow.getOpenEndedEscrows">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="475.59" cy="-1231" rx="101.28" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1226.8" font-family="Times,serif" font-size="14.00" style="">getOpenEndedEscrows</text>
+</g>
+<!-- TagEscrow.getOpenEndedEscrows&#45;&gt;TagEscrow.address -->
+<g id="edge60" class="edge" data-name="TagEscrow.getOpenEndedEscrows-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M547.3,-1217.07C576.1,-1212.53 609.28,-1206.01 637.91,-1195 675.47,-1180.56 713.68,-1155.24 740.57,-1136.77" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="742.27,-1139.85 748.52,-1131.29 738.3,-1134.09 742.27,-1139.85" style=""/>
+</g>
+<!-- TagEscrow.getOpenEndedEscrows&#45;&gt;TagEscrow.address -->
+<g id="edge61" class="edge" data-name="TagEscrow.getOpenEndedEscrows-&gt;TagEscrow.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M577.66,-1229.3C598.01,-1225.61 618.96,-1220.29 637.91,-1213 681.67,-1196.17 726.31,-1164.59 752.9,-1141.6" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="755.16,-1144.27 760.25,-1134.97 750.48,-1139.07 755.16,-1144.27" style=""/>
+</g>
+<!-- TagNFT.escrowContractOnly -->
+<g id="node25" class="node" pointer-events="visible" data-name="TagNFT.escrowContractOnly">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="245.03,-2509.54 245.03,-2524.46 187.4,-2535 105.88,-2535 48.25,-2524.46 48.25,-2509.54 105.88,-2499 187.4,-2499 245.03,-2509.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="249.03,-2506.21 249.03,-2527.79 187.76,-2539 105.52,-2539 44.25,-2527.79 44.25,-2506.21 105.52,-2495 187.76,-2495 249.03,-2506.21" style=""/>
+<text text-anchor="middle" x="146.64" y="-2512.8" font-family="Times,serif" font-size="14.00" style="">escrowContractOnly</text>
+</g>
+<!-- TagNFT.address -->
+<g id="node34" class="node" pointer-events="visible" data-name="TagNFT.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-2459" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-2454.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- TagNFT.escrowContractOnly&#45;&gt;TagNFT.address -->
+<g id="edge62" class="edge" data-name="TagNFT.escrowContractOnly-&gt;TagNFT.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M233.12,-2501.84C293.86,-2491.06 373.37,-2476.96 424.23,-2467.93" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="424.62,-2471.42 433.85,-2466.23 423.39,-2464.53 424.62,-2471.42" style=""/>
+</g>
+<!-- TagNFT.&lt;Constructor&gt; -->
+<g id="node26" class="node" pointer-events="visible" data-name="TagNFT.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="146.64" cy="-2351" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-2346.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- TagNFT.&lt;Constructor&gt;&#45;&gt;TagNFT.address -->
+<g id="edge63" class="edge" data-name="TagNFT.&lt;Constructor&gt;-&gt;TagNFT.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M210.38,-2358.37C232.21,-2362.4 256.43,-2368.58 277.28,-2378 295.51,-2386.24 295.57,-2395.71 313.28,-2405 349.18,-2423.84 392.96,-2438 425.85,-2447.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="424.84,-2450.44 435.41,-2449.65 426.66,-2443.68 424.84,-2450.44" style=""/>
+</g>
+<!-- TagNFT.ITagEscrow -->
+<g id="node35" class="node" pointer-events="visible" data-name="TagNFT.ITagEscrow">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-2378" rx="58.46" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-2373.8" font-family="Times,serif" font-size="14.00" style="">ITagEscrow</text>
+</g>
+<!-- TagNFT.&lt;Constructor&gt;&#45;&gt;TagNFT.ITagEscrow -->
+<g id="edge64" class="edge" data-name="TagNFT.&lt;Constructor&gt;-&gt;TagNFT.ITagEscrow">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M212.63,-2356.37C268.17,-2360.95 347.9,-2367.54 404.79,-2372.24" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="404.38,-2375.71 414.63,-2373.05 404.95,-2368.74 404.38,-2375.71" style=""/>
+</g>
+<!-- TagNFT.mintEscrowNft -->
+<g id="node27" class="node" pointer-events="visible" data-name="TagNFT.mintEscrowNft">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="146.64" cy="-2189" rx="70.65" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-2184.8" font-family="Times,serif" font-size="14.00" style="">mintEscrowNft</text>
+</g>
+<!-- TagNFT._mint -->
+<g id="node36" class="node" pointer-events="visible" data-name="TagNFT._mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-2189" rx="33.64" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-2184.8" font-family="Times,serif" font-size="14.00" style="">_mint</text>
+</g>
+<!-- TagNFT.mintEscrowNft&#45;&gt;TagNFT._mint -->
+<g id="edge67" class="edge" data-name="TagNFT.mintEscrowNft-&gt;TagNFT._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M218.58,-2189C282.09,-2189 373.37,-2189 428.04,-2189" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="427.76,-2192.5 437.76,-2189 427.76,-2185.5 427.76,-2192.5" style=""/>
+</g>
+<!-- Counters.Counter.increment -->
+<g id="node58" class="node" pointer-events="visible" data-name="Counters.Counter.increment">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-1996" rx="49.79" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1991.8" font-family="Times,serif" font-size="14.00" style="">increment</text>
+</g>
+<!-- TagNFT.mintEscrowNft&#45;&gt;Counters.Counter.increment -->
+<g id="edge65" class="edge" data-name="TagNFT.mintEscrowNft-&gt;Counters.Counter.increment">
+
+<path fill="none" stroke="white" stroke-width="2" d="M218.36,-2187.59C239.44,-2183.91 261.19,-2176.43 277.28,-2162 315.88,-2127.37 276.88,-2087.95 313.28,-2051 339.8,-2024.09 379.99,-2010.34 413.62,-2003.32" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="414,-2006.81 423.18,-2001.51 412.7,-1999.93 414,-2006.81" style=""/>
+</g>
+<!-- Counters.Counter.current -->
+<g id="node59" class="node" pointer-events="visible" data-name="Counters.Counter.current">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-1942" rx="38.26" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1937.8" font-family="Times,serif" font-size="14.00" style="">current</text>
+</g>
+<!-- TagNFT.mintEscrowNft&#45;&gt;Counters.Counter.current -->
+<g id="edge66" class="edge" data-name="TagNFT.mintEscrowNft-&gt;Counters.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M218.5,-2188.97C239.98,-2185.43 261.92,-2177.69 277.28,-2162 338.33,-2099.66 251.01,-2030.12 313.28,-1969 342.16,-1940.66 388.87,-1935.5 424.61,-1936.5" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="424.05,-1939.98 434.21,-1936.97 424.39,-1932.99 424.05,-1939.98" style=""/>
+</g>
+<!-- TagNFT.updateEscrowContractAddress -->
+<g id="node28" class="node" pointer-events="visible" data-name="TagNFT.updateEscrowContractAddress">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="146.64" cy="-2405" rx="130.78" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-2400.8" font-family="Times,serif" font-size="14.00" style="">updateEscrowContractAddress</text>
+</g>
+<!-- TagNFT.updateEscrowContractAddress&#45;&gt;TagNFT.address -->
+<g id="edge68" class="edge" data-name="TagNFT.updateEscrowContractAddress-&gt;TagNFT.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M235.26,-2419.47C295.51,-2429.42 373.43,-2442.29 423.71,-2450.6" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="423.07,-2454.04 433.51,-2452.21 424.21,-2447.13 423.07,-2454.04" style=""/>
+</g>
+<!-- TagNFT.updateEscrowContractAddress&#45;&gt;TagNFT.ITagEscrow -->
+<g id="edge69" class="edge" data-name="TagNFT.updateEscrowContractAddress-&gt;TagNFT.ITagEscrow">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M261.99,-2395.56C309.62,-2391.62 363.38,-2387.18 404.92,-2383.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="404.98,-2387.26 414.66,-2382.95 404.41,-2380.28 404.98,-2387.26" style=""/>
+</g>
+<!-- TagNFT._beforeTokenTransfer -->
+<g id="node29" class="node" pointer-events="visible" data-name="TagNFT._beforeTokenTransfer">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="146.64" cy="-2459" rx="97.8" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-2454.8" font-family="Times,serif" font-size="14.00" style="">_beforeTokenTransfer</text>
+</g>
+<!-- TagNFT._beforeTokenTransfer&#45;&gt;TagNFT.address -->
+<g id="edge71" class="edge" data-name="TagNFT._beforeTokenTransfer-&gt;TagNFT.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M225.95,-2447.28C288.3,-2444.41 373.58,-2445.01 426.32,-2449.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="425.72,-2452.55 435.98,-2449.93 426.33,-2445.57 425.72,-2452.55" style=""/>
+</g>
+<!-- TagNFT._beforeTokenTransfer&#45;&gt;TagNFT.address -->
+<g id="edge72" class="edge" data-name="TagNFT._beforeTokenTransfer-&gt;TagNFT.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M245.74,-2459C303.51,-2459 374.32,-2459 421.74,-2459" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="421.43,-2462.5 431.43,-2459 421.43,-2455.5 421.43,-2462.5" style=""/>
+</g>
+<!-- TagNFT._beforeTokenTransfer&#45;&gt;TagNFT.address -->
+<g id="edge73" class="edge" data-name="TagNFT._beforeTokenTransfer-&gt;TagNFT.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M225.95,-2470.72C288.3,-2473.59 373.58,-2472.99 426.32,-2468.91" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="426.33,-2472.43 435.98,-2468.07 425.72,-2465.45 426.33,-2472.43" style=""/>
+</g>
+<!-- Ownable._beforeTokenTransfer -->
+<g id="node60" class="node" pointer-events="visible" data-name="Ownable._beforeTokenTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-1857" rx="97.8" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1852.8" font-family="Times,serif" font-size="14.00" style="">_beforeTokenTransfer</text>
+</g>
+<!-- TagNFT._beforeTokenTransfer&#45;&gt;Ownable._beforeTokenTransfer -->
+<g id="edge70" class="edge" data-name="TagNFT._beforeTokenTransfer-&gt;Ownable._beforeTokenTransfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M242.66,-2454.26C255.88,-2449.63 268.06,-2442.57 277.28,-2432 353.42,-2344.71 242.66,-2003.81 313.28,-1912 329.17,-1891.34 353.22,-1878.39 377.94,-1870.28" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="378.6,-1873.74 387.2,-1867.54 376.61,-1867.03 378.6,-1873.74" style=""/>
+</g>
+<!-- TagNFT.tokenURI -->
+<g id="node30" class="node" pointer-events="visible" data-name="TagNFT.tokenURI">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="146.64" cy="-2297" rx="49.24" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-2292.8" font-family="Times,serif" font-size="14.00" style="">tokenURI</text>
+</g>
+<!-- TagNFT._exists -->
+<g id="node37" class="node" pointer-events="visible" data-name="TagNFT._exists">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-2270" rx="37.72" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-2265.8" font-family="Times,serif" font-size="14.00" style="">_exists</text>
+</g>
+<!-- TagNFT.tokenURI&#45;&gt;TagNFT._exists -->
+<g id="edge74" class="edge" data-name="TagNFT.tokenURI-&gt;TagNFT._exists">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M196.24,-2292.99C257.39,-2287.94 361.91,-2279.31 424,-2274.18" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="424.25,-2277.67 433.93,-2273.36 423.67,-2270.69 424.25,-2277.67" style=""/>
+</g>
+<!-- TagNFT.updateUri -->
+<g id="node31" class="node" pointer-events="visible" data-name="TagNFT.updateUri">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="146.64" cy="-2243" rx="49.8" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-2238.8" font-family="Times,serif" font-size="14.00" style="">updateUri</text>
+</g>
+<!-- TagNFT.updateUri&#45;&gt;TagNFT._exists -->
+<g id="edge75" class="edge" data-name="TagNFT.updateUri-&gt;TagNFT._exists">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M196.59,-2247.04C257.83,-2252.1 362.16,-2260.72 424.11,-2265.83" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="423.76,-2269.31 434.01,-2266.65 424.34,-2262.34 423.76,-2269.31" style=""/>
+</g>
+<!-- TagNFT.getTokenIds -->
+<g id="node32" class="node" pointer-events="visible" data-name="TagNFT.getTokenIds">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="146.64" cy="-2081" rx="59.11" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-2076.8" font-family="Times,serif" font-size="14.00" style="">getTokenIds</text>
+</g>
+<!-- ERC721.balanceOf -->
+<g id="node62" class="node" pointer-events="visible" data-name="ERC721.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-1718" rx="50.92" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1713.8" font-family="Times,serif" font-size="14.00" style="">balanceOf</text>
+</g>
+<!-- TagNFT.getTokenIds&#45;&gt;ERC721.balanceOf -->
+<g id="edge76" class="edge" data-name="TagNFT.getTokenIds-&gt;ERC721.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M151.55,-2061.89C165.01,-2006.79 214.16,-1848 313.28,-1764 340.78,-1740.7 378.64,-1727.12 410.77,-1720.25" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="411.09,-1723.76 420.25,-1718.44 409.77,-1716.88 411.09,-1723.76" style=""/>
+</g>
+<!-- TagNFT.getTokenIds&#45;&gt;ERC721.balanceOf -->
+<g id="edge77" class="edge" data-name="TagNFT.getTokenIds-&gt;ERC721.balanceOf">
+
+<path fill="none" stroke="white" stroke-width="2" d="M153.79,-2062.01C169.95,-2009.39 219.02,-1861.88 313.28,-1782 344.21,-1755.79 388.23,-1741.88 422.48,-1733.24" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="423.25,-1736.65 432.13,-1730.88 421.59,-1729.85 423.25,-1736.65" style=""/>
+</g>
+<!-- ERC721Enumerable.tokenOfOwnerByIndex -->
+<g id="node63" class="node" pointer-events="visible" data-name="ERC721Enumerable.tokenOfOwnerByIndex">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-1633" rx="102.43" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1628.8" font-family="Times,serif" font-size="14.00" style="">tokenOfOwnerByIndex</text>
+</g>
+<!-- TagNFT.getTokenIds&#45;&gt;ERC721Enumerable.tokenOfOwnerByIndex -->
+<g id="edge78" class="edge" data-name="TagNFT.getTokenIds-&gt;ERC721Enumerable.tokenOfOwnerByIndex">
+
+<path fill="none" stroke="white" stroke-width="2" d="M150.13,-2061.9C159.32,-1999.02 197.1,-1796.29 313.28,-1688 332.9,-1669.71 358.86,-1657.48 384.2,-1649.3" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="385.09,-1652.69 393.67,-1646.48 383.08,-1645.99 385.09,-1652.69" style=""/>
+</g>
+<!-- TagNFT.supportsInterface -->
+<g id="node33" class="node" pointer-events="visible" data-name="TagNFT.supportsInterface">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="146.64" cy="-2135" rx="78.14" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-2130.8" font-family="Times,serif" font-size="14.00" style="">supportsInterface</text>
+</g>
+<!-- Ownable.supportsInterface -->
+<g id="node61" class="node" pointer-events="visible" data-name="Ownable.supportsInterface">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-1803" rx="78.14" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-1798.8" font-family="Times,serif" font-size="14.00" style="">supportsInterface</text>
+</g>
+<!-- TagNFT.supportsInterface&#45;&gt;Ownable.supportsInterface -->
+<g id="edge79" class="edge" data-name="TagNFT.supportsInterface-&gt;Ownable.supportsInterface">
+
+<path fill="none" stroke="white" stroke-width="2" d="M226.12,-2134.14C245.25,-2130.13 264,-2122.34 277.28,-2108 361.94,-2016.6 226.83,-1919.71 313.28,-1830 332.33,-1810.23 360,-1801.54 387.06,-1798.39" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="387.16,-1801.89 396.82,-1797.54 386.56,-1794.92 387.16,-1801.89" style=""/>
+</g>
+<!-- TagEscrowOtc.onlyOpenCase -->
+<g id="node38" class="node" pointer-events="visible" data-name="TagEscrowOtc.onlyOpenCase">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="220.12,-416.54 220.12,-431.46 177.07,-442 116.21,-442 73.16,-431.46 73.16,-416.54 116.21,-406 177.07,-406 220.12,-416.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="224.12,-413.41 224.12,-434.59 177.56,-446 115.72,-446 69.17,-434.59 69.17,-413.41 115.72,-402 177.56,-402 224.12,-413.41" style=""/>
+<text text-anchor="middle" x="146.64" y="-419.8" font-family="Times,serif" font-size="14.00" style="">onlyOpenCase</text>
+</g>
+<!-- TagEscrowOtc.onlyOpenCase&#45;&gt;EnumerableSet.UintSet.contains -->
+<g id="edge80" class="edge" data-name="TagEscrowOtc.onlyOpenCase-&gt;EnumerableSet.UintSet.contains">
+
+<path fill="none" stroke="white" stroke-width="2" d="M206.59,-440.29C329.93,-474.38 613.24,-552.67 727.82,-584.34" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="726.81,-587.69 737.38,-586.98 728.68,-580.94 726.81,-587.69" style=""/>
+</g>
+<!-- TagEscrowOtc.onlyParticipatingParty -->
+<g id="node39" class="node" pointer-events="visible" data-name="TagEscrowOtc.onlyParticipatingParty">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="252.65,-354.54 252.65,-369.46 190.55,-380 102.73,-380 40.63,-369.46 40.63,-354.54 102.73,-344 190.55,-344 252.65,-354.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="256.65,-351.17 256.65,-372.83 190.89,-384 102.39,-384 36.63,-372.83 36.63,-351.17 102.39,-340 190.89,-340 256.65,-351.17" style=""/>
+<text text-anchor="middle" x="146.64" y="-357.8" font-family="Times,serif" font-size="14.00" style="">onlyParticipatingParty</text>
+</g>
+<!-- TagEscrowOtc.&lt;Constructor&gt; -->
+<g id="node40" class="node" pointer-events="visible" data-name="TagEscrowOtc.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="475.59" cy="-349" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-344.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- TagEscrowOtc.address -->
+<g id="node52" class="node" pointer-events="visible" data-name="TagEscrowOtc.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-320" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-315.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- TagEscrowOtc.&lt;Constructor&gt;&#45;&gt;TagEscrowOtc.address -->
+<g id="edge81" class="edge" data-name="TagEscrowOtc.&lt;Constructor&gt;-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M540.73,-342.81C595.62,-337.52 673.68,-329.99 724.89,-325.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="724.98,-328.56 734.6,-324.12 724.31,-321.59 724.98,-328.56" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow -->
+<g id="node41" class="node" pointer-events="visible" data-name="TagEscrowOtc.createEscrow">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="475.59" cy="-403" rx="63.08" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-398.8" font-family="Times,serif" font-size="14.00" style="">createEscrow</text>
+</g>
+<!-- TagEscrowOtc.addEscrowIdToAddress -->
+<g id="node46" class="node" pointer-events="visible" data-name="TagEscrowOtc.addEscrowIdToAddress">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-428" rx="104.22" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-423.8" font-family="Times,serif" font-size="14.00" style="">addEscrowIdToAddress</text>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.addEscrowIdToAddress -->
+<g id="edge92" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.addEscrowIdToAddress">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M539.99,-402.65C582.13,-404.91 638.15,-409.35 685.18,-414.07" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="684.56,-417.52 694.86,-415.06 685.27,-410.56 684.56,-417.52" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.addEscrowIdToAddress -->
+<g id="edge93" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.addEscrowIdToAddress">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M531.04,-412.87C567.16,-417.12 615.96,-421.6 660.58,-424.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="660.1,-428.37 670.33,-425.6 660.61,-421.39 660.1,-428.37" style=""/>
+</g>
+<!-- TagEscrowOtc.generateEscrowId -->
+<g id="node48" class="node" pointer-events="visible" data-name="TagEscrowOtc.generateEscrowId">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="778.27" cy="-374" rx="80.99" ry="18" style=""/>
+<text text-anchor="middle" x="778.27" y="-369.8" font-family="Times,serif" font-size="14.00" style="">generateEscrowId</text>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.generateEscrowId -->
+<g id="edge94" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.generateEscrowId">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M537.08,-397.17C580.68,-392.96 640.22,-387.22 689.11,-382.5" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="689.31,-386 698.93,-381.56 688.64,-379.03 689.31,-386" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.address -->
+<g id="edge82" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M481.6,-383.81C502.03,-349.15 580.66,-347.7 637.91,-322 656.65,-313.59 655.56,-302.25 673.91,-293 705.65,-277 747.79,-269.83 766.97,-289.88" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="763.89,-291.56 772.24,-298.09 769.78,-287.78 763.89,-291.56" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.address -->
+<g id="edge83" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M488.94,-384.19C516.78,-366.66 586.1,-363.26 637.91,-340 656.65,-331.59 655.56,-320.25 673.91,-311 700.79,-297.45 735.13,-290.23 756.67,-295.93" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="754.94,-298.99 765.49,-299.96 757.85,-292.62 754.94,-298.99" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.address -->
+<g id="edge84" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M515.67,-387.71C549.37,-381.84 598.66,-375.62 637.91,-358 656.65,-349.59 655.56,-338.25 673.91,-329 691.5,-320.13 712.29,-313.98 730.59,-311.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="730.87,-314.58 740.39,-309.94 730.05,-307.63 730.87,-314.58" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.address -->
+<g id="edge86" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M539.26,-399.97C570.06,-396.65 607.08,-389.84 637.91,-376 656.65,-367.59 655.56,-356.25 673.91,-347 690.22,-338.78 709.28,-332.89 726.56,-328.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="727.1,-332.22 736.1,-326.63 725.58,-325.38 727.1,-332.22" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.address -->
+<g id="edge88" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M522.19,-416.46C555.51,-417.02 601.12,-410.51 637.91,-394 656.65,-385.59 655.56,-374.25 673.91,-365 695.99,-353.87 723.11,-347.01 744.02,-340.45" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="744.92,-343.84 753.28,-337.33 742.68,-337.21 744.92,-343.84" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.address -->
+<g id="edge89" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M488.94,-421.86C516.78,-438.66 586.1,-435.26 637.91,-412 656.65,-403.59 655.56,-392.25 673.91,-383 702.41,-368.64 739.29,-361.38 760.41,-347.24" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="762.55,-350.02 767.84,-340.84 757.98,-344.72 762.55,-350.02" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;TagEscrowOtc.address -->
+<g id="edge90" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M481.6,-422.32C502.03,-457.15 580.66,-455.7 637.91,-430 656.65,-421.59 655.56,-410.25 673.91,-401 706.51,-384.57 750.09,-377.44 768.49,-350.47" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="771.48,-352.31 772.86,-341.81 765.23,-349.16 771.48,-352.31" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;EnumerableSet.UintSet.add -->
+<g id="edge91" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;EnumerableSet.UintSet.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M487.77,-421.84C514.3,-464.87 585.54,-570.84 673.91,-625 693.1,-636.77 717.34,-643.45 737.52,-647.22" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="736.67,-650.62 747.11,-648.8 737.82,-643.72 736.67,-650.62" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;IERC20.safeTransferFrom -->
+<g id="edge85" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;IERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M522.73,-416.1C562.39,-431.33 621.35,-455.77 673.91,-474 691.81,-480.21 711.74,-486.2 729.29,-491.74" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="728.11,-495.04 738.7,-494.76 730.25,-488.37 728.11,-495.04" style=""/>
+</g>
+<!-- TagEscrowOtc.createEscrow&#45;&gt;IERC20.safeTransferFrom -->
+<g id="edge87" class="edge" data-name="TagEscrowOtc.createEscrow-&gt;IERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M502.75,-420.56C540.23,-440.02 611.57,-470.38 673.91,-492 681.06,-494.48 688.54,-496.93 696.06,-499.26" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="694.81,-502.53 705.39,-502.05 696.82,-495.83 694.81,-502.53" style=""/>
+</g>
+<!-- TagEscrowOtc.depositFunds -->
+<g id="node42" class="node" pointer-events="visible" data-name="TagEscrowOtc.depositFunds">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="146.64" cy="-304" rx="62.59" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-299.8" font-family="Times,serif" font-size="14.00" style="">depositFunds</text>
+</g>
+<!-- TagEscrowOtc.transferFundsToParty -->
+<g id="node47" class="node" pointer-events="visible" data-name="TagEscrowOtc.transferFundsToParty">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="475.59" cy="-275" rx="95" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-270.8" font-family="Times,serif" font-size="14.00" style="">transferFundsToParty</text>
+</g>
+<!-- TagEscrowOtc.depositFunds&#45;&gt;TagEscrowOtc.transferFundsToParty -->
+<g id="edge98" class="edge" data-name="TagEscrowOtc.depositFunds-&gt;TagEscrowOtc.transferFundsToParty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M201.63,-294.04C246.47,-288.51 311.66,-282.32 367.08,-278.15" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="367.11,-281.66 376.82,-277.44 366.6,-274.68 367.11,-281.66" style=""/>
+</g>
+<!-- TagEscrowOtc.depositFunds&#45;&gt;TagEscrowOtc.transferFundsToParty -->
+<g id="edge99" class="edge" data-name="TagEscrowOtc.depositFunds-&gt;TagEscrowOtc.transferFundsToParty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M210.68,-303.87C261.12,-300.9 332.39,-294.77 388.16,-288.7" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="388.33,-292.2 397.88,-287.62 387.55,-285.25 388.33,-292.2" style=""/>
+</g>
+<!-- TagEscrowOtc.depositFunds&#45;&gt;TagEscrowOtc.address -->
+<g id="edge95" class="edge" data-name="TagEscrowOtc.depositFunds-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M206.59,-297.22C329.8,-293.2 612.66,-300.58 727.47,-311.02" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="727,-314.49 737.29,-311.98 727.68,-307.53 727,-314.49" style=""/>
+</g>
+<!-- TagEscrowOtc.depositFunds&#45;&gt;TagEscrowOtc.address -->
+<g id="edge96" class="edge" data-name="TagEscrowOtc.depositFunds-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M210.31,-305.59C334.18,-308.74 608.35,-315.71 724.08,-318.65" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="723.95,-322.15 734.03,-318.9 724.13,-315.15 723.95,-322.15" style=""/>
+</g>
+<!-- TagEscrowOtc.depositFunds&#45;&gt;TagEscrowOtc.address -->
+<g id="edge97" class="edge" data-name="TagEscrowOtc.depositFunds-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M202.69,-313.44C323.29,-323.86 609.35,-331.05 726.21,-326.5" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="726.09,-330.01 735.92,-326.05 725.77,-323.01 726.09,-330.01" style=""/>
+</g>
+<!-- TagEscrowOtc.reclaimFunds -->
+<g id="node43" class="node" pointer-events="visible" data-name="TagEscrowOtc.reclaimFunds">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="146.64" cy="-250" rx="63.71" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-245.8" font-family="Times,serif" font-size="14.00" style="">reclaimFunds</text>
+</g>
+<!-- TagEscrowOtc.reclaimFunds&#45;&gt;TagEscrowOtc.transferFundsToParty -->
+<g id="edge100" class="edge" data-name="TagEscrowOtc.reclaimFunds-&gt;TagEscrowOtc.transferFundsToParty">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M209.52,-254.73C255.44,-258.24 319.08,-263.11 372.5,-267.19" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="372.23,-270.68 382.47,-267.96 372.76,-263.7 372.23,-270.68" style=""/>
+</g>
+<!-- TagEscrowOtc.updateTreasuryAddress -->
+<g id="node44" class="node" pointer-events="visible" data-name="TagEscrowOtc.updateTreasuryAddress">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="475.59" cy="-221" rx="102.99" ry="18" style=""/>
+<text text-anchor="middle" x="475.59" y="-216.8" font-family="Times,serif" font-size="14.00" style="">updateTreasuryAddress</text>
+</g>
+<!-- TagEscrowOtc.updateTreasuryAddress&#45;&gt;TagEscrowOtc.address -->
+<g id="edge101" class="edge" data-name="TagEscrowOtc.updateTreasuryAddress-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M565.71,-230.84C589.53,-234.84 615.01,-240.38 637.91,-248 675.21,-260.42 714.76,-281.73 742.16,-297.95" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="740.16,-300.83 750.53,-302.99 743.77,-294.83 740.16,-300.83" style=""/>
+</g>
+<!-- TagEscrowOtc.changeTagFee -->
+<g id="node45" class="node" pointer-events="visible" data-name="TagEscrowOtc.changeTagFee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="146.64" cy="-196" rx="67.17" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-191.8" font-family="Times,serif" font-size="14.00" style="">changeTagFee</text>
+</g>
+<!-- TagEscrowOtc.transferFundsToParty&#45;&gt;TagEscrowOtc.address -->
+<g id="edge102" class="edge" data-name="TagEscrowOtc.transferFundsToParty-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M565.18,-282.04C619.14,-289.13 685.95,-299.51 730,-307.85" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="729.16,-311.25 739.65,-309.73 730.5,-304.38 729.16,-311.25" style=""/>
+</g>
+<!-- TagEscrowOtc.transferFundsToParty&#45;&gt;TagEscrowOtc.address -->
+<g id="edge103" class="edge" data-name="TagEscrowOtc.transferFundsToParty-&gt;TagEscrowOtc.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M538.16,-289.79C592.85,-299.63 671.95,-311.38 723.97,-317.32" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="723.58,-320.8 733.9,-318.41 724.34,-313.84 723.58,-320.8" style=""/>
+</g>
+<!-- TagEscrowOtc.getEscrowsForAddress -->
+<g id="node49" class="node" pointer-events="visible" data-name="TagEscrowOtc.getEscrowsForAddress">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="146.64" cy="-142" rx="100.74" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-137.8" font-family="Times,serif" font-size="14.00" style="">getEscrowsForAddress</text>
+</g>
+<!-- TagEscrowOtc.getEscrowsStartedForAddress -->
+<g id="node50" class="node" pointer-events="visible" data-name="TagEscrowOtc.getEscrowsStartedForAddress">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="146.64" cy="-88" rx="127.94" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-83.8" font-family="Times,serif" font-size="14.00" style="">getEscrowsStartedForAddress</text>
+</g>
+<!-- TagEscrowOtc.getEscrowsDoneForAddress -->
+<g id="node51" class="node" pointer-events="visible" data-name="TagEscrowOtc.getEscrowsDoneForAddress">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="146.64" cy="-34" rx="121.57" ry="18" style=""/>
+<text text-anchor="middle" x="146.64" y="-29.8" font-family="Times,serif" font-size="14.00" style="">getEscrowsDoneForAddress</text>
+</g>
+<!-- key -->
+<g id="node64" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="211.64,-2676 81.64,-2676 81.64,-2588 211.64,-2588 211.64,-2676" style=""/>
+<text text-anchor="start" x="131.28" y="-2657.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="127.39" y="-2637.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="104.84" y="-2617.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="91.24" y="-2597.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node65" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="502.59,-2676 448.59,-2676 448.59,-2588 502.59,-2588 502.59,-2676" style=""/>
+<text text-anchor="start" x="465.59" y="-2657.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="465.59" y="-2637.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="463.59,-2612 463.59,-2632 488.59,-2632 488.59,-2612 463.59,-2612" style=""/>
+<text text-anchor="start" x="465.59" y="-2617.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="465.59,-2594 465.59,-2610 486.59,-2610 486.59,-2594 465.59,-2594" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge104" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M204.64,-2662C314.92,-2662 345.64,-2662 449.86,-2662" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="449.57,-2665.5 459.57,-2662 449.57,-2658.5 449.57,-2665.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge105" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M204.64,-2642C314.92,-2642 345.64,-2642 449.86,-2642" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="449.57,-2645.5 459.57,-2642 449.57,-2638.5 449.57,-2645.5" style=""/>
+</g>
+</g>
+</svg>
